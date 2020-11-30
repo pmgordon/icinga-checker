@@ -2,7 +2,7 @@
 # pylint: disable=no-self-use
 # pylint: disable=too-few-public-methods
 
-from sample_module.main import main
+from icinga_checker.main import main
 
 class TestMain():
     """Tests for the main class"""

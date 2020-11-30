@@ -1,5 +1,5 @@
 TEST_PATH=./tests
-MODULE_NAME="sample_module"
+MODULE_NAME="icinga_checker"
 
 test:
 	pytest --verbose --color=yes $(TEST_PATH)

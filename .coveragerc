@@ -1,3 +1,3 @@
 [run]
 omit =
-    sample_module/__main__.py
+    icinga_checker/__main__.py
